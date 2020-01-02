@@ -13,4 +13,4 @@ The chatbot is trained into three different chat mode, which are comic, friend a
 
 The following image shows the chat log of the chatbot.
 
-![alt text](https://imgur.com/vzPkleR)
+![alt text](https://i.imgur.com/AVvMFjy.png)
